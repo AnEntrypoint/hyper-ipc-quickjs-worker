@@ -1,5 +1,5 @@
 # hyper-ipc-quickjs-woker
-QuickJS Hyper-IPC-Secure Worker Tool is a powerful utility for running QuickJS code securely within a hyper-ipc-secure environment. This README will guide you through the setup and usage of the tool.
+QuickJS Hyper-IPC-Secure Worker Tool for running QuickJS code securely within a hyper-ipc-secure environment. This README will guide you through the setup and usage of the tool.
 
 Before using this tool, ensure you have the following prerequisites installed:
 
